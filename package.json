@@ -1,0 +1,22 @@
+{
+  "name": "sample-google-home-notifier",
+  "version": "1.0.0",
+  "description": "Sample program for google-home-notifier.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aDaisukeKondo/sample-google-home-notifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aDaisukeKondo/sample-google-home-notifier/issues"
+  },
+  "homepage": "https://github.com/aDaisukeKondo/sample-google-home-notifier#readme",
+  "dependencies": {
+    "google-home-notifier": "^1.2.0"
+  }
+}
